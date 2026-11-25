@@ -1,0 +1,1011 @@
+{
+  "kind": "calibration",
+  "backend": "ibm_phoenix",
+  "layout": [
+    86,
+    76,
+    85,
+    87,
+    96
+  ],
+  "shots_per_circuit": 384,
+  "calibration_sha256": null,
+  "qpy_sha256": "bd5e736a94463e7d2ee219b882f835d53a6089bc8b5c3443601e4f686fef4756",
+  "status": "complete",
+  "job_id": "dc1i5its2omc738al6g0",
+  "circuits": [
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 13
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 14
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 15
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 15
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 9
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 3
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 15
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 6
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 6
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 10
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 7
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 13
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 5
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 5
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 12
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 12
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 14
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 11
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 8
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 7
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 0
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 8
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 12
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 4
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 1
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 5
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 8
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 2
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 2
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 6
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 2
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 2
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 10
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 4
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 0
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 1
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 7
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 10
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 0
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 12
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 0
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 14
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 15
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 5
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 13
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 11
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 3
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 9
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 3
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 6
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 13
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 3
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 9
+    },
+    {
+      "role": "assignment",
+      "prepared": 1,
+      "repetition": 7
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 10
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 11
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 14
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 1
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 8
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 0,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 0,
+      "repetition": 9
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 1
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 4
+    },
+    {
+      "role": "assignment",
+      "prepared": 0,
+      "repetition": 4
+    },
+    {
+      "mode": "residual",
+      "sensing": true,
+      "steps": 1,
+      "n_spectators": 4,
+      "theta": 0.0,
+      "tau_us": 10.0,
+      "couplings_khz": [
+        11.33739724,
+        13.82386326,
+        17.31167797,
+        9.43922829
+      ],
+      "axes_rad": [
+        0.9431669,
+        0.9369451,
+        1.97599439,
+        0.73543977
+      ],
+      "readout_wait_us": 0.0,
+      "initial_battery": 1,
+      "feedback_applied": false,
+      "role": "instrument",
+      "prepared": 1,
+      "repetition": 11
+    }
+  ],
+  "shots_sha256": "20a169a85300af69501c882393dfff8ccd208cda6e0015b87ec11698c95b1872"
+}

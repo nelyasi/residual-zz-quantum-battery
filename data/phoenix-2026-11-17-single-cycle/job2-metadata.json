@@ -1,0 +1,2018 @@
+[
+ {
+  "scenario": "P1",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P1",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P1",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P1",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P1",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P1",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P1",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P1",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P1",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P1",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P1",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P1",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P1",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P1",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P1",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P1",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P1",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P1",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P1",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P1",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P1",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P1",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P1",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P1",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P1",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P1",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P1",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P1",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 0.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 5.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 10.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 0,
+  "phi": 0.0,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 1,
+  "phi": 0.7853981633974483,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 2,
+  "phi": 1.5707963267948966,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 3,
+  "phi": 2.356194490192345,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 4,
+  "phi": 3.141592653589793,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 5,
+  "phi": 3.9269908169872414,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 6,
+  "phi": 4.71238898038469,
+  "kind": "daemonic",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "X"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "Y"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "tomo",
+  "basis": "Z"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "simple",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "daemonic",
+  "set": "ideal"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "simple",
+  "set": "noisy"
+ },
+ {
+  "scenario": "P2",
+  "tau": 20.0,
+  "phase_index": 7,
+  "phi": 5.497787143782138,
+  "kind": "daemonic",
+  "set": "noisy"
+ }
+]

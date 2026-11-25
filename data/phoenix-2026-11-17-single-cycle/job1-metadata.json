@@ -1,0 +1,248 @@
+[
+ {
+  "kind": "readout",
+  "prep": 0
+ },
+ {
+  "kind": "readout",
+  "prep": 1
+ },
+ {
+  "kind": "zz",
+  "wait": 0.0,
+  "battery": 0,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 0.0,
+  "battery": 0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 0.0,
+  "battery": 1,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 0.0,
+  "battery": 1,
+  "basis": "Y"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 0.0,
+  "basis": "X"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 0.0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 1.0,
+  "battery": 0,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 1.0,
+  "battery": 0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 1.0,
+  "battery": 1,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 1.0,
+  "battery": 1,
+  "basis": "Y"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 1.0,
+  "basis": "X"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 1.0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 2.0,
+  "battery": 0,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 2.0,
+  "battery": 0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 2.0,
+  "battery": 1,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 2.0,
+  "battery": 1,
+  "basis": "Y"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 2.0,
+  "basis": "X"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 2.0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 3.0,
+  "battery": 0,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 3.0,
+  "battery": 0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 3.0,
+  "battery": 1,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 3.0,
+  "battery": 1,
+  "basis": "Y"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 3.0,
+  "basis": "X"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 3.0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 5.0,
+  "battery": 0,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 5.0,
+  "battery": 0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 5.0,
+  "battery": 1,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 5.0,
+  "battery": 1,
+  "basis": "Y"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 5.0,
+  "basis": "X"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 5.0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 10.0,
+  "battery": 0,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 10.0,
+  "battery": 0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 10.0,
+  "battery": 1,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 10.0,
+  "battery": 1,
+  "basis": "Y"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 10.0,
+  "basis": "X"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 10.0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 20.0,
+  "battery": 0,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 20.0,
+  "battery": 0,
+  "basis": "Y"
+ },
+ {
+  "kind": "zz",
+  "wait": 20.0,
+  "battery": 1,
+  "basis": "X"
+ },
+ {
+  "kind": "zz",
+  "wait": 20.0,
+  "battery": 1,
+  "basis": "Y"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 20.0,
+  "basis": "X"
+ },
+ {
+  "kind": "battery_ramsey",
+  "wait": 20.0,
+  "basis": "Y"
+ }
+]

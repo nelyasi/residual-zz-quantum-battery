@@ -1,0 +1,364 @@
+{
+  "rows": [
+    {
+      "cycles": 1,
+      "X": {
+        "unconditional": {
+          "mean": 0.6950482709085916,
+          "SD": 0.14590056882431304,
+          "shot_count": 372,
+          "excited_readout_count": 258,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 5
+        },
+        "conditional": {
+          "mean": 0.34033099709887005,
+          "SD": 0.13515157550483023,
+          "shot_count": 393,
+          "excited_readout_count": 134,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 3
+        }
+      },
+      "I": {
+        "unconditional": {
+          "mean": 0.10055546267663208,
+          "SD": 0.02002794734099218,
+          "shot_count": 11916,
+          "excited_readout_count": 1223,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 365
+        },
+        "conditional": {
+          "mean": 0.10023028805034667,
+          "SD": 0.015613960823846086,
+          "shot_count": 11895,
+          "excited_readout_count": 1217,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 362
+        }
+      }
+    },
+    {
+      "cycles": 2,
+      "X": {
+        "unconditional": {
+          "mean": 0.6831833177366367,
+          "SD": 0.1400597274292359,
+          "shot_count": 1436,
+          "excited_readout_count": 979,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 25
+        },
+        "conditional": {
+          "mean": 0.31537471363492886,
+          "SD": 0.1357487702909363,
+          "shot_count": 1417,
+          "excited_readout_count": 448,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 24
+        }
+      },
+      "I": {
+        "unconditional": {
+          "mean": 0.1180959976836648,
+          "SD": 0.05700107878141809,
+          "shot_count": 10852,
+          "excited_readout_count": 1303,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 317
+        },
+        "conditional": {
+          "mean": 0.1139054330486529,
+          "SD": 0.0571777204912005,
+          "shot_count": 10871,
+          "excited_readout_count": 1260,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 309
+        }
+      }
+    },
+    {
+      "cycles": 4,
+      "X": {
+        "unconditional": {
+          "mean": 0.696560774490321,
+          "SD": 0.0918407362868566,
+          "shot_count": 2607,
+          "excited_readout_count": 1812,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 49
+        },
+        "conditional": {
+          "mean": 0.2954324073616175,
+          "SD": 0.09068858953846239,
+          "shot_count": 2622,
+          "excited_readout_count": 777,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 53
+        }
+      },
+      "I": {
+        "unconditional": {
+          "mean": 0.1397740931794987,
+          "SD": 0.07072031523160885,
+          "shot_count": 9681,
+          "excited_readout_count": 1371,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 244
+        },
+        "conditional": {
+          "mean": 0.1389543699985542,
+          "SD": 0.05256550078660378,
+          "shot_count": 9666,
+          "excited_readout_count": 1361,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 253
+        }
+      }
+    },
+    {
+      "cycles": 6,
+      "X": {
+        "unconditional": {
+          "mean": 0.7061119545156873,
+          "SD": 0.0958502058023101,
+          "shot_count": 3696,
+          "excited_readout_count": 2604,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 71
+        },
+        "conditional": {
+          "mean": 0.2857256412004883,
+          "SD": 0.09752927253370286,
+          "shot_count": 3659,
+          "excited_readout_count": 1049,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 81
+        }
+      },
+      "I": {
+        "unconditional": {
+          "mean": 0.1621646794691213,
+          "SD": 0.06609256163902515,
+          "shot_count": 8592,
+          "excited_readout_count": 1408,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 209
+        },
+        "conditional": {
+          "mean": 0.16518864517944584,
+          "SD": 0.06233358707861339,
+          "shot_count": 8629,
+          "excited_readout_count": 1440,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 219
+        }
+      }
+    },
+    {
+      "cycles": 8,
+      "X": {
+        "unconditional": {
+          "mean": 0.7089736285388348,
+          "SD": 0.06146414247460772,
+          "shot_count": 4019,
+          "excited_readout_count": 2843,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 95
+        },
+        "conditional": {
+          "mean": 0.2770499655519119,
+          "SD": 0.06711732865850042,
+          "shot_count": 4035,
+          "excited_readout_count": 1122,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 91
+        }
+      },
+      "I": {
+        "unconditional": {
+          "mean": 0.16531961714970023,
+          "SD": 0.03587203819699295,
+          "shot_count": 8269,
+          "excited_readout_count": 1381,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 208
+        },
+        "conditional": {
+          "mean": 0.1702776355421866,
+          "SD": 0.045666479941783744,
+          "shot_count": 8253,
+          "excited_readout_count": 1419,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 223
+        }
+      }
+    },
+    {
+      "cycles": 10,
+      "X": {
+        "unconditional": {
+          "mean": 0.7068036077765887,
+          "SD": 0.059137101741201174,
+          "shot_count": 4529,
+          "excited_readout_count": 3194,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 100
+        },
+        "conditional": {
+          "mean": 0.29339660653155175,
+          "SD": 0.05924634866560662,
+          "shot_count": 4468,
+          "excited_readout_count": 1315,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 92
+        }
+      },
+      "I": {
+        "unconditional": {
+          "mean": 0.1626193461626792,
+          "SD": 0.04143635814967527,
+          "shot_count": 7759,
+          "excited_readout_count": 1275,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 198
+        },
+        "conditional": {
+          "mean": 0.16171571558494416,
+          "SD": 0.04097108315782514,
+          "shot_count": 7820,
+          "excited_readout_count": 1278,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 211
+        }
+      }
+    },
+    {
+      "cycles": 12,
+      "X": {
+        "unconditional": {
+          "mean": 0.7221613414385132,
+          "SD": 0.04952358677856898,
+          "shot_count": 4737,
+          "excited_readout_count": 3413,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 116
+        },
+        "conditional": {
+          "mean": 0.2937282356177805,
+          "SD": 0.05179810744207474,
+          "shot_count": 4687,
+          "excited_readout_count": 1381,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 108
+        }
+      },
+      "I": {
+        "unconditional": {
+          "mean": 0.16943826945120705,
+          "SD": 0.04713540018599346,
+          "shot_count": 7551,
+          "excited_readout_count": 1292,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 209
+        },
+        "conditional": {
+          "mean": 0.16526167325207183,
+          "SD": 0.03772482035297607,
+          "shot_count": 7601,
+          "excited_readout_count": 1269,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 209
+        }
+      }
+    },
+    {
+      "cycles": 16,
+      "X": {
+        "unconditional": {
+          "mean": 0.7224209842340604,
+          "SD": 0.04064587251927544,
+          "shot_count": 4813,
+          "excited_readout_count": 3469,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 126
+        },
+        "conditional": {
+          "mean": 0.2854638587341398,
+          "SD": 0.03412936597804119,
+          "shot_count": 4989,
+          "excited_readout_count": 1429,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 118
+        }
+      },
+      "I": {
+        "unconditional": {
+          "mean": 0.16849665880374004,
+          "SD": 0.028619031494815955,
+          "shot_count": 7475,
+          "excited_readout_count": 1272,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 208
+        },
+        "conditional": {
+          "mean": 0.1745544284712863,
+          "SD": 0.026735951011612517,
+          "shot_count": 7299,
+          "excited_readout_count": 1286,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 209
+        }
+      }
+    },
+    {
+      "cycles": 20,
+      "X": {
+        "unconditional": {
+          "mean": 0.7338801257304507,
+          "SD": 0.03669732915658491,
+          "shot_count": 4999,
+          "excited_readout_count": 3660,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 135
+        },
+        "conditional": {
+          "mean": 0.2787004845145696,
+          "SD": 0.03870614780673622,
+          "shot_count": 4923,
+          "excited_readout_count": 1377,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 123
+        }
+      },
+      "I": {
+        "unconditional": {
+          "mean": 0.1746595869851881,
+          "SD": 0.029195273761816513,
+          "shot_count": 7289,
+          "excited_readout_count": 1285,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 202
+        },
+        "conditional": {
+          "mean": 0.18635276718545699,
+          "SD": 0.03737583141000882,
+          "shot_count": 7365,
+          "excited_readout_count": 1384,
+          "phase_sequences": 32,
+          "minimum_shots_per_sequence": 207
+        }
+      }
+    }
+  ],
+  "executed_job_ids": [
+    "dc1i6l5hdvas73bks8l0",
+    "dc1i6uinj2vs73dfcoo0",
+    "dc1i6uthdvas73bks8v0",
+    "dc1i6veq4uuc73a3vb50"
+  ],
+  "source_calibration_sha256": "135a4ea55b79846555b2d4c55a4308054a73164b18ec7862f6eab2f80c6e8a64",
+  "mean_definition": "Corrected excited-state probability using all pooled shots in each branch and arm.",
+  "SD_definition": "Sample standard deviation across the corrected branch proportions of the 32 phase sequences, each given equal weight. It includes finite-shot variation."
+}
