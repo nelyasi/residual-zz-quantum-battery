@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article and this archive."
+title: "Daemonic work extraction from a quantum battery monitored via residual ZZ coupling: data and code"
+type: software
+version: 1.0.0
+date-released: 2026-11-25
+license: MIT
+doi: 10.5281/zenodo.24527677
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24527677
+    description: "All versions of this archive (Zenodo concept DOI)"
+  - type: doi
+    value: 10.5281/zenodo.24527678
+    description: "Version 1.0.0"
+authors:
+  - family-names: Elyasi
+    given-names: Seyed Navid
+    email: elyasi@chalmers.se
+    orcid: "https://orcid.org/0009-0008-2562-9039"
+    affiliation: "Department of Electrical Engineering, Chalmers University of Technology"
+repository-code: "https://github.com/nelyasi/residual-zz-quantum-battery"
+abstract: >-
+  Measurement records, calibration, analysis code and figure scripts for daemonic work
+  extraction from a transmon quantum battery on IBM Quantum Phoenix, where the residual
+  ZZ coupling to four neighbouring transmons provides the measurement record and a
+  real-time controller selects the extraction pulse.
+keywords:
+  - quantum batteries
+  - daemonic ergotropy
+  - measurement-based feedback
+  - superconducting qubits
+  - residual ZZ coupling
+  - quantum thermodynamics
+preferred-citation:
+  type: article
+  title: "Daemonic work extraction from a quantum battery monitored via residual ZZ coupling"
+  authors:
+    - family-names: Elyasi
+      given-names: Seyed Navid
+      orcid: "https://orcid.org/0009-0008-2562-9039"
+  year: 2026

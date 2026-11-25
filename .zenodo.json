@@ -1,0 +1,25 @@
+{
+  "title": "Daemonic work extraction from a quantum battery monitored via residual ZZ coupling: data and code",
+  "upload_type": "software",
+  "description": "<p>Measurement records, calibration, analysis code and figure scripts accompanying the article <em>Daemonic work extraction from a quantum battery monitored via residual ZZ coupling</em>.</p><p>The residual ZZ coupling of a superconducting processor (IBM Quantum Phoenix) is used to monitor a transmon quantum battery through four neighbouring spectator transmons. A real-time controller selects the extraction pulse from the most recent spectator outcomes. The archive contains the compiled circuits and individual shot records of the matched fixed-versus-conditional extraction experiment (9 cycle numbers, 32 charging-phase sequences, 3 circuit types, 331,776 shots), the frozen calibration, the single-cycle experiment, the processed data of every figure and table, and the code that regenerates all reported results.</p><p>Code: MIT License. Data and figures: CC BY 4.0.</p>",
+  "creators": [
+    {
+      "name": "Elyasi, Seyed Navid",
+      "affiliation": "Chalmers University of Technology",
+      "orcid": "0009-0008-2562-9039"
+    }
+  ],
+  "license": "mit-license",
+  "access_right": "open",
+  "keywords": [
+    "quantum batteries",
+    "daemonic ergotropy",
+    "measurement-based feedback",
+    "superconducting qubits",
+    "residual ZZ coupling",
+    "quantum thermodynamics",
+    "IBM Quantum"
+  ],
+  "version": "1.0.0",
+  "language": "eng"
+}

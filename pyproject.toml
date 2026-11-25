@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zzbattery"
+version = "1.0.0"
+description = "Daemonic work extraction from a quantum battery monitored via residual ZZ coupling"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Seyed Navid Elyasi", email = "elyasi@chalmers.se" }]
+requires-python = ">=3.11"
+dependencies = ["numpy>=2.0", "scipy>=1.11", "matplotlib>=3.8", "qiskit>=2.0"]
+keywords = ["quantum batteries", "daemonic ergotropy", "measurement-based feedback", "superconducting qubits", "residual ZZ coupling"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Intended Audience :: Science/Research",
+]
+
+[project.optional-dependencies]
+hardware = ["qiskit-ibm-runtime>=0.40"]
+notebook = ["pandas>=2.0", "openpyxl>=3.1", "jupyter"]
+test = ["pytest>=8"]
+
+[project.urls]
+Repository = "https://github.com/nelyasi/residual-zz-quantum-battery"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["slow: rebuilds the full 2,592-circuit design (about one minute)"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["E741"]

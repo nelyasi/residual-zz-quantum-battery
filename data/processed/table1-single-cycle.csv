@@ -1,0 +1,5 @@
+nominal_tau_us,control_excited_counts,feedback_excited_counts,shots_per_circuit,control_population,feedback_population,energy_difference,energy_difference_se
+0,4970,4993,10000,0.498641,0.500956,-0.002315,0.007116
+5,4904,3561,10000,0.492,0.356848,0.135151,0.006966
+10,4804,2419,10000,0.481936,0.241924,0.240012,0.006622
+20,4648,1174,10000,0.466237,0.116635,0.349602,0.005974
